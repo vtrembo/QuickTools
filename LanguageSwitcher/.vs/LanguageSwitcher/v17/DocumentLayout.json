@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SweazyPC\\source\\repos\\QuickTools\\LanguageSwitcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAA87F-7591-49BE-8E96-54EDDAF1C907}|LanguageSwitcher.csproj|c:\\users\\sweazypc\\source\\repos\\quicktools\\languageswitcher\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAA87F-7591-49BE-8E96-54EDDAF1C907}|LanguageSwitcher.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAA87F-7591-49BE-8E96-54EDDAF1C907}|LanguageSwitcher.csproj|c:\\users\\sweazypc\\source\\repos\\quicktools\\languageswitcher\\managers\\notifyiconmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAA87F-7591-49BE-8E96-54EDDAF1C907}|LanguageSwitcher.csproj|solutionrelative:managers\\notifyiconmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAA87F-7591-49BE-8E96-54EDDAF1C907}|LanguageSwitcher.csproj|c:\\users\\sweazypc\\source\\repos\\quicktools\\languageswitcher\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0EAA87F-7591-49BE-8E96-54EDDAF1C907}|LanguageSwitcher.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAA87F-7591-49BE-8E96-54EDDAF1C907}|LanguageSwitcher.csproj|c:\\users\\sweazypc\\source\\repos\\quicktools\\languageswitcher\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAA87F-7591-49BE-8E96-54EDDAF1C907}|LanguageSwitcher.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAA87F-7591-49BE-8E96-54EDDAF1C907}|LanguageSwitcher.csproj|c:\\users\\sweazypc\\source\\repos\\quicktools\\languageswitcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0EAA87F-7591-49BE-8E96-54EDDAF1C907}|LanguageSwitcher.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EAA87F-7591-49BE-8E96-54EDDAF1C907}|LanguageSwitcher.csproj|c:\\users\\sweazypc\\source\\repos\\quicktools\\languageswitcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EAA87F-7591-49BE-8E96-54EDDAF1C907}|LanguageSwitcher.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\SweazyPC\\source\\repos\\QuickTools\\LanguageSwitcher\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\SweazyPC\\source\\repos\\QuickTools\\LanguageSwitcher\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:52:41.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotifyIconManager.cs",
+              "DocumentMoniker": "C:\\Users\\SweazyPC\\source\\repos\\QuickTools\\LanguageSwitcher\\Managers\\NotifyIconManager.cs",
+              "RelativeDocumentMoniker": "Managers\\NotifyIconManager.cs",
+              "ToolTip": "C:\\Users\\SweazyPC\\source\\repos\\QuickTools\\LanguageSwitcher\\Managers\\NotifyIconManager.cs",
+              "RelativeToolTip": "Managers\\NotifyIconManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:16:55.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\SweazyPC\\source\\repos\\QuickTools\\LanguageSwitcher\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\SweazyPC\\source\\repos\\QuickTools\\LanguageSwitcher\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T16:48:51.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SweazyPC\\source\\repos\\QuickTools\\LanguageSwitcher\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\SweazyPC\\source\\repos\\QuickTools\\LanguageSwitcher\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0BAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:48:13.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\SweazyPC\\source\\repos\\QuickTools\\LanguageSwitcher\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\SweazyPC\\source\\repos\\QuickTools\\LanguageSwitcher\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-22T16:47:45.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SweazyPC\\source\\repos\\QuickTools\\LanguageSwitcher\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\SweazyPC\\source\\repos\\QuickTools\\LanguageSwitcher\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:47:44.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
